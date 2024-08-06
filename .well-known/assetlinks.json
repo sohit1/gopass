@@ -1,0 +1,26 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tyco.entrapass.mobilepass",
+      "sha256_cert_fingerprints": [
+        "01:B4:1F:7B:27:EB:85:2A:BB:67:CD:A1:D7:E4:7A:E6:AC:D6:BB:6B:BF:5B:1D:12:51:8B:D6:A4:83:E5:78:6B"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "tyco.entrapass.mobilepass.new",
+      "sha256_cert_fingerprints": [
+        "01:B4:1F:7B:27:EB:85:2A:BB:67:CD:A1:D7:E4:7A:E6:AC:D6:BB:6B:BF:5B:1D:12:51:8B:D6:A4:83:E5:78:6B"
+      ]
+    }
+  }
+]
